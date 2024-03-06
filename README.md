@@ -17,7 +17,7 @@ Vite Development Server: The application is set up with Vite, a fast development
 1. Clone the repo
 
 ```sh
-git@github.com:Atheefkali/Tailwind-basic-whatsappUi.git
+git@github.com:Atheefkali/instagram-ui.git
 ```
 
 2. Open The index.HTML file
